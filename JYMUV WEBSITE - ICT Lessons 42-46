@@ -1,0 +1,719 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://kf7a7KiY3cE1I0z:JpGqIGRlWQiZVnH@localhost:38969/storage/emulated/0/index.html
+Subject: JYMUV WEBSITE - ICT Lessons 42-46
+Date: Tue, 3 Nov 2026 20:56:26 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--agWj15RBaxsP1pXsT88o94EQFmNSvc26op6zrE4akY----"
+
+
+------MultipartBoundary--agWj15RBaxsP1pXsT88o94EQFmNSvc26op6zrE4akY----
+Content-Type: text/html
+Content-ID: <frame-4A75CEC95342E3E0EBD9369B4CF070E4@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://kf7a7KiY3cE1I0z:JpGqIGRlWQiZVnH@localhost:38969/storage/emulated/0/index.html
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-eaadf007-4a4b-4578-a731-34621b02873f@mhtml.blink" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JYMUV WEBSITE - ICT Lessons 42-46</title>
+
+
+</head>
+
+<body>
+
+<header>
+    <h1>JYMUV WEBSITE</h1>
+    <p>Information and Communication Technology Learning Website</p>
+    <p>Lessons 42–46 | Senior High School ICT</p>
+</header>
+
+<nav>
+    <a href="http://kf7a7KiY3cE1I0z:JpGqIGRlWQiZVnH@localhost:38969/storage/emulated/0/index.html#lesson42">Lesson 42</a>
+    <a href="http://kf7a7KiY3cE1I0z:JpGqIGRlWQiZVnH@localhost:38969/storage/emulated/0/index.html#lesson43">Lesson 43</a>
+    <a href="http://kf7a7KiY3cE1I0z:JpGqIGRlWQiZVnH@localhost:38969/storage/emulated/0/index.html#lesson44">Lesson 44</a>
+    <a href="http://kf7a7KiY3cE1I0z:JpGqIGRlWQiZVnH@localhost:38969/storage/emulated/0/index.html#lesson45">Lesson 45</a>
+    <a href="http://kf7a7KiY3cE1I0z:JpGqIGRlWQiZVnH@localhost:38969/storage/emulated/0/index.html#lesson46">Lesson 46</a>
+</nav>
+
+<div class="container">
+
+<!-- LESSON 42 -->
+<section class="lesson" id="lesson42">
+<div class="lesson-header blue">
+    <h2>LESSON 42: SERVER MANAGEMENT</h2>
+    <p>Understanding Servers and Their Management</p>
+</div>
+
+<div class="content">
+
+<h3>1. What is Server Management?</h3>
+<p>
+Server management refers to the process of monitoring, maintaining,
+configuring, and controlling servers to make sure that they work properly.
+It includes managing server resources, users, applications, storage,
+security, and network services.
+</p>
+
+<h3>2. What is a Server?</h3>
+<p>
+A server is a computer or system that provides services, data, and
+resources to other computers called clients through a network.
+Servers help users share information, access applications, store files,
+and communicate with other devices.
+</p>
+
+<h3>3. Importance of Server Management</h3>
+<div class="card">
+<strong>Reliability:</strong> Helps servers operate properly and reduces downtime.
+</div>
+<div class="card">
+<strong>Security:</strong> Protects information from unauthorized access and threats.
+</div>
+<div class="card">
+<strong>Performance:</strong> Helps servers work efficiently and respond to user requests.
+</div>
+<div class="card">
+<strong>Data Protection:</strong> Helps prevent data loss through backups and recovery.
+</div>
+<div class="card">
+<strong>Resource Management:</strong> Ensures that storage, memory, and processing resources are used properly.
+</div>
+
+<h3>4. Responsibilities of a Server Administrator</h3>
+<ul>
+<li>Monitor server performance and condition.</li>
+<li>Create and manage user accounts.</li>
+<li>Assign user permissions and access rights.</li>
+<li>Install and configure server software.</li>
+<li>Apply security updates and system patches.</li>
+<li>Perform regular data backups.</li>
+<li>Troubleshoot server and network problems.</li>
+<li>Maintain server hardware and software.</li>
+</ul>
+
+<h3>5. Types of Servers</h3>
+<div class="card">
+<strong>File Server</strong>
+<p>Stores and manages files so that authorized users can access and share them.</p>
+</div>
+<div class="card">
+<strong>Web Server</strong>
+<p>Stores and delivers website content to users through web browsers.</p>
+</div>
+<div class="card">
+<strong>Database Server</strong>
+<p>Stores, organizes, and manages data for applications and users.</p>
+</div>
+<div class="card">
+<strong>Mail Server</strong>
+<p>Handles sending, receiving, and storing electronic messages.</p>
+</div>
+<div class="card">
+<strong>Application Server</strong>
+<p>Runs applications and provides their services to client computers.</p>
+</div>
+<div class="card">
+<strong>Domain Controller</strong>
+<p>Manages user accounts, authentication, and access to network resources in a domain.</p>
+</div>
+
+<div class="note">
+<strong>Remember:</strong> Proper server management helps maintain
+security, reliability, and efficient network operations.
+</div>
+
+</div>
+</section>
+
+<!-- LESSON 43 -->
+<section class="lesson" id="lesson43">
+<div class="lesson-header green">
+    <h2>LESSON 43: SERVER MANAGEMENT ROLES AND FUNCTIONS</h2>
+    <p>Understanding Different Server Roles</p>
+</div>
+
+<div class="content">
+
+<h3>1. What are Server Roles?</h3>
+<p>
+Server roles are the main functions or services that a server performs
+within a network. Each role is designed to provide a specific service
+to users, computers, or other systems.
+</p>
+
+<h3>2. Common Server Roles and Their Functions</h3>
+
+<div class="card">
+<strong>File Server</strong>
+<p>
+Provides centralized file storage and allows users to access shared
+documents and folders based on their permissions.
+</p>
+</div>
+
+<div class="card">
+<strong>Web Server</strong>
+<p>
+Hosts websites and delivers web pages to users who access them
+through internet or network browsers.
+</p>
+</div>
+
+<div class="card">
+<strong>Database Server</strong>
+<p>
+Stores and processes organized information. It allows applications
+to retrieve, update, and manage data.
+</p>
+</div>
+
+<div class="card">
+<strong>Mail Server</strong>
+<p>
+Manages email communication by sending, receiving, and storing messages.
+</p>
+</div>
+
+<div class="card">
+<strong>Application Server</strong>
+<p>
+Runs software applications and provides the services needed by client
+computers.
+</p>
+</div>
+
+<div class="card">
+<strong>Domain Controller</strong>
+<p>
+Controls centralized user authentication, account management,
+and access permissions within a domain network.
+</p>
+</div>
+
+<h3>3. How Server Roles Work Together</h3>
+<p>
+Different server roles can work together to provide complete network
+services. For example, a student may log in through a domain controller,
+open a website hosted by a web server, and access information stored
+in a database server.
+</p>
+
+<table>
+<tbody><tr>
+<th>Server Role</th>
+<th>Main Function</th>
+</tr>
+<tr>
+<td>File Server</td>
+<td>Stores and shares files.</td>
+</tr>
+<tr>
+<td>Web Server</td>
+<td>Hosts and delivers websites.</td>
+</tr>
+<tr>
+<td>Database Server</td>
+<td>Stores and manages data.</td>
+</tr>
+<tr>
+<td>Mail Server</td>
+<td>Handles email communication.</td>
+</tr>
+<tr>
+<td>Application Server</td>
+<td>Runs applications.</td>
+</tr>
+<tr>
+<td>Domain Controller</td>
+<td>Manages user accounts and authentication.</td>
+</tr>
+</tbody></table>
+
+<h3>4. Benefits of Server Roles</h3>
+<ul>
+<li>Organizes network services.</li>
+<li>Makes resource sharing easier.</li>
+<li>Improves network management.</li>
+<li>Provides centralized access control.</li>
+<li>Helps administrators maintain security.</li>
+<li>Supports efficient communication between systems.</li>
+</ul>
+
+<div class="note">
+<strong>Remember:</strong> Every server role has a specific purpose.
+Together, they help a network operate efficiently.
+</div>
+
+</div>
+</section>
+
+<!-- LESSON 44 -->
+<section class="lesson" id="lesson44">
+<div class="lesson-header purple">
+    <h2>LESSON 44: SERVER MANAGEMENT RELATIONSHIPS</h2>
+    <p>How Servers, Clients, Users, and Networks Work Together</p>
+</div>
+
+<div class="content">
+
+<h3>1. Server and Client Computer</h3>
+<p>
+A server provides services and resources, while a client computer
+requests and uses those services. They communicate through a network.
+</p>
+<div class="card">
+<strong>Example:</strong> A student uses a computer to open a file
+stored on a school file server.
+</div>
+
+<h3>2. Server and Network Infrastructure</h3>
+<p>
+The server depends on network infrastructure to communicate with
+other devices. Network infrastructure includes routers, switches,
+cables, wireless access points, and other networking equipment.
+</p>
+<div class="card">
+<strong>Example:</strong> A switch connects the server to client computers
+so they can exchange information.
+</div>
+
+<h3>3. Server and Administrator</h3>
+<p>
+The server administrator manages and maintains the server. The
+administrator configures settings, manages accounts, monitors
+performance, applies updates, and solves technical problems.
+</p>
+
+<h3>4. Client Computer and Users</h3>
+<p>
+Users interact with client computers to access programs, files,
+websites, and other network resources. The client computer sends
+requests to the server based on the user's actions.
+</p>
+<div class="card">
+<strong>Example:</strong> A teacher uses a school computer to access
+lesson materials saved on a shared server.
+</div>
+
+<h3>5. Server and Server</h3>
+<p>
+Two or more servers can communicate and exchange information.
+They may work together to provide different services to users.
+</p>
+<div class="card">
+<strong>Example:</strong> A web server requests information from a
+database server to display the correct content on a website.
+</div>
+
+<h3>6. Relationship Summary</h3>
+<table>
+<tbody><tr>
+<th>Components</th>
+<th>Relationship</th>
+<th>How They Work Together</th>
+</tr>
+<tr>
+<td>Server + Client</td>
+<td>Service provider and requester</td>
+<td>The client requests resources from the server.</td>
+</tr>
+<tr>
+<td>Server + Network Infrastructure</td>
+<td>Communication connection</td>
+<td>Network devices connect servers to other computers.</td>
+</tr>
+<tr>
+<td>Server + Administrator</td>
+<td>Management and maintenance</td>
+<td>The administrator controls and maintains the server.</td>
+</tr>
+<tr>
+<td>Client + User</td>
+<td>Interaction</td>
+<td>The user operates the client computer.</td>
+</tr>
+<tr>
+<td>Server + Server</td>
+<td>Service cooperation</td>
+<td>Servers exchange information and provide services together.</td>
+</tr>
+</tbody></table>
+
+<h3>7. How They Work Together in a School Network</h3>
+<ol>
+<li>The user turns on a client computer.</li>
+<li>The user enters their account information.</li>
+<li>The domain controller checks the login details.</li>
+<li>The network connects the client to the requested server.</li>
+<li>The server provides the requested file or service.</li>
+<li>The user receives and uses the information.</li>
+</ol>
+
+<div class="note">
+<strong>Remember:</strong> Servers, clients, users, administrators,
+and network infrastructure depend on one another to make a network work.
+</div>
+
+</div>
+</section>
+
+<!-- LESSON 45 -->
+<section class="lesson" id="lesson45">
+<div class="lesson-header orange">
+    <h2>LESSON 45: NETWORK OPERATING SYSTEM (NOS)</h2>
+    <p>Understanding Network Operating Systems</p>
+</div>
+
+<div class="content">
+
+<h3>1. What is a Network Operating System?</h3>
+<p>
+A Network Operating System (NOS) is an operating system designed to
+manage network resources, connected computers, users, and shared
+services. It allows computers to communicate and share information
+through a network.
+</p>
+
+<h3>2. Main Functions of a Network Operating System</h3>
+
+<div class="card">
+<strong>User and Account Management</strong>
+<p>Creates and manages user accounts, passwords, and permissions.</p>
+</div>
+
+<div class="card">
+<strong>File and Printer Sharing</strong>
+<p>Allows authorized users to access shared files, folders, and printers.</p>
+</div>
+
+<div class="card">
+<strong>Network Security</strong>
+<p>Protects network resources through authentication, permissions,
+and security policies.</p>
+</div>
+
+<div class="card">
+<strong>Resource Management</strong>
+<p>Controls the use of shared storage, applications, printers,
+and other network resources.</p>
+</div>
+
+<div class="card">
+<strong>Network Communication</strong>
+<p>Allows connected computers and devices to exchange information.</p>
+</div>
+
+<div class="card">
+<strong>Centralized Administration</strong>
+<p>Allows administrators to manage multiple users and computers
+from a central location.</p>
+</div>
+
+<h3>3. Examples of Network Operating Systems</h3>
+<ul>
+<li><strong>Windows Server:</strong> A Microsoft server operating system
+used for managing users, computers, and network services.</li>
+<li><strong>Linux Server:</strong> A Linux-based operating system
+commonly used for hosting services and managing servers.</li>
+<li><strong>UNIX:</strong> A multiuser operating system used in different
+computing and server environments.</li>
+</ul>
+
+<h3>4. Standalone Operating System vs. Network Operating System</h3>
+<table>
+<tbody><tr>
+<th>Standalone OS</th>
+<th>Network OS</th>
+</tr>
+<tr>
+<td>Designed mainly for an individual computer.</td>
+<td>Designed to manage networked computers and resources.</td>
+</tr>
+<tr>
+<td>Manages local files and applications.</td>
+<td>Manages shared files and network services.</td>
+</tr>
+<tr>
+<td>Examples include Windows 11 and macOS.</td>
+<td>Examples include Windows Server and Linux Server.</td>
+</tr>
+</tbody></table>
+
+<h3>5. Benefits of a Network Operating System</h3>
+<ul>
+<li>Centralized user management.</li>
+<li>Easy sharing of files and printers.</li>
+<li>Improved network security.</li>
+<li>Better resource management.</li>
+<li>Efficient communication between computers.</li>
+<li>Easier administration and maintenance.</li>
+</ul>
+
+<h3>6. Example of NOS in a School</h3>
+<p>
+A school can use a Network Operating System to manage student and
+teacher accounts. Each user can log in using an assigned account.
+The administrator can control who can access shared files,
+computers, printers, and other network resources.
+</p>
+
+<div class="note">
+<strong>Remember:</strong> A Network Operating System helps manage
+and control connected computers and shared network resources.
+</div>
+
+</div>
+</section>
+
+<!-- LESSON 46 -->
+<section class="lesson" id="lesson46">
+<div class="lesson-header darkblue">
+    <h2>LESSON 46: WINDOWS SERVER 2022</h2>
+    <p>Features, Functions, and Uses of Windows Server 2022</p>
+</div>
+
+<div class="content">
+
+<h3>1. What is Windows Server 2022?</h3>
+<p>
+Windows Server 2022 is a server operating system developed by Microsoft.
+It helps organizations manage network users, devices, applications,
+and data securely and efficiently.
+</p>
+<p>
+It provides a platform for hosting services, managing users,
+sharing resources, and securing network operations.
+</p>
+
+<h3>2. Main Functions of Windows Server 2022</h3>
+
+<div class="card">
+<strong>User and Account Management</strong>
+<p>
+Creates and manages user accounts. It also controls user permissions
+and access rights so that only authorized users can access specific
+network resources.
+</p>
+</div>
+
+<div class="card">
+<strong>File and Printer Sharing</strong>
+<p>
+Allows users to access shared files, folders, and printers through
+a network. This makes it easier for people in an organization to
+share resources.
+</p>
+</div>
+
+<div class="card">
+<strong>Network Security</strong>
+<p>
+Provides security features that help protect the server and network
+from unauthorized access and other security threats.
+</p>
+</div>
+
+<div class="card">
+<strong>Storage and Backup Management</strong>
+<p>
+Helps organize and manage stored information. Backup systems help
+protect important files and support data recovery when needed.
+</p>
+</div>
+
+<div class="card">
+<strong>Network Services</strong>
+<p>
+Supports network services that help computers communicate,
+receive network settings, and access shared resources.
+</p>
+</div>
+
+<div class="card">
+<strong>Virtualization Support</strong>
+<p>
+Supports virtualization through Hyper-V, allowing administrators
+to run virtual machines on a physical server.
+</p>
+</div>
+
+<h3>3. Important Features of Windows Server 2022</h3>
+<ul>
+<li><strong>Advanced Security:</strong> Provides security improvements
+to help protect systems and information.</li>
+<li><strong>Hybrid Capabilities:</strong> Supports connections and
+management with compatible cloud services.</li>
+<li><strong>Storage Features:</strong> Provides tools for managing
+and protecting stored data.</li>
+<li><strong>Remote Management:</strong> Allows administrators to
+manage servers from another computer.</li>
+<li><strong>Active Directory Domain Services:</strong> Helps manage
+users, computers, and authentication in a domain.</li>
+<li><strong>Hyper-V:</strong> Provides virtualization capabilities
+for creating and running virtual machines.</li>
+</ul>
+
+<h3>4. Common Windows Server 2022 Roles</h3>
+<table>
+<tbody><tr>
+<th>Server Role</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>Active Directory Domain Services</td>
+<td>Manages domain users, computers, and authentication.</td>
+</tr>
+<tr>
+<td>DNS Server</td>
+<td>Translates domain names into IP addresses.</td>
+</tr>
+<tr>
+<td>DHCP Server</td>
+<td>Automatically assigns IP addresses to network devices.</td>
+</tr>
+<tr>
+<td>File Server</td>
+<td>Provides centralized file storage and sharing.</td>
+</tr>
+<tr>
+<td>Web Server (IIS)</td>
+<td>Hosts websites and web applications.</td>
+</tr>
+</tbody></table>
+
+<h3>5. Benefits of Windows Server 2022</h3>
+<ul>
+<li>Centralized management of users and computers.</li>
+<li>Improved security and access control.</li>
+<li>Efficient file and printer sharing.</li>
+<li>Reliable management of network services.</li>
+<li>Support for virtualization.</li>
+<li>Tools for storage and data protection.</li>
+</ul>
+
+<h3>6. Uses of Windows Server 2022</h3>
+
+<div class="card">
+<strong>In Schools</strong>
+<p>
+It can manage student and teacher accounts, shared learning
+materials, computer laboratory access, and school network resources.
+</p>
+</div>
+
+<div class="card">
+<strong>In Businesses</strong>
+<p>
+It can manage employee accounts, business files, applications,
+printers, and other office resources.
+</p>
+</div>
+
+<div class="card">
+<strong>In Government Offices</strong>
+<p>
+It can help manage office computers, shared documents, user access,
+and network services.
+</p>
+</div>
+
+<h3>7. Example: Windows Server 2022 in a School</h3>
+<ol>
+<li>The administrator creates accounts for teachers and students.</li>
+<li>Each user receives login information.</li>
+<li>The domain controller checks the user's identity.</li>
+<li>The system provides access based on assigned permissions.</li>
+<li>Users access shared files and other school resources.</li>
+<li>The administrator monitors and maintains the server.</li>
+</ol>
+
+<div class="note">
+<strong>Remember:</strong> Windows Server 2022 is designed to help
+organizations manage users, devices, applications, and network
+resources in a centralized environment.
+</div>
+
+</div>
+</section>
+
+</div>
+
+<footer>
+    <h3 style="color:white;border:none;">JYMUV WEBSITE</h3>
+    <p>Information and Communication Technology</p>
+    <p>Lessons 42–46 | Learning Through Technology</p>
+    <p>© 2026 JYMUV WEBSITE</p>
+</footer>
+
+
+
+</body></html>
+------MultipartBoundary--agWj15RBaxsP1pXsT88o94EQFmNSvc26op6zrE4akY----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-eaadf007-4a4b-4578-a731-34621b02873f@mhtml.blink
+
+@charset "utf-8";
+
+* { box-sizing: border-box; scroll-behavior: smooth; }
+
+body { margin: 0px; font-family: Arial, sans-serif; background: rgb(238, 243, 249); color: rgb(38, 52, 69); line-height: 1.7; }
+
+header { background: linear-gradient(135deg, rgb(9, 43, 85), rgb(22, 116, 189)); color: white; text-align: center; padding: 45px 15px; }
+
+header h1 { font-size: 35px; margin: 0px; }
+
+header p { margin-bottom: 0px; }
+
+nav { background: rgb(7, 29, 56); padding: 14px; text-align: center; position: sticky; top: 0px; z-index: 10; }
+
+nav a { color: white; text-decoration: none; margin: 8px; font-weight: bold; display: inline-block; }
+
+nav a:hover { color: rgb(100, 217, 255); }
+
+.container { max-width: 1050px; margin: auto; padding: 20px; }
+
+.lesson { background: white; margin: 30px 0px; border-radius: 14px; overflow: hidden; box-shadow: rgba(0, 0, 0, 0.08) 0px 5px 15px; }
+
+.lesson-header { color: white; padding: 25px; }
+
+.lesson-header h2 { margin: 0px; }
+
+.blue { background: rgb(23, 105, 170); }
+
+.green { background: rgb(35, 132, 90); }
+
+.purple { background: rgb(112, 72, 168); }
+
+.orange { background: rgb(216, 121, 36); }
+
+.darkblue { background: rgb(18, 60, 105); }
+
+.content { padding: 25px; }
+
+h3 { color: rgb(23, 105, 170); border-left: 5px solid rgb(23, 105, 170); padding-left: 10px; margin-top: 25px; }
+
+.card { background: rgb(241, 246, 252); padding: 17px; margin: 12px 0px; border-radius: 9px; border-left: 4px solid rgb(38, 133, 202); }
+
+.note { background: rgb(255, 245, 217); padding: 15px; border-left: 5px solid rgb(233, 165, 43); border-radius: 7px; margin: 18px 0px; }
+
+table { width: 100%; border-collapse: collapse; margin: 15px 0px; }
+
+th, td { border: 1px solid rgb(204, 214, 225); padding: 11px; text-align: left; }
+
+th { background: rgb(23, 105, 170); color: white; }
+
+tr:nth-child(2n) { background: rgb(241, 246, 252); }
+
+footer { background: rgb(7, 29, 56); color: white; text-align: center; padding: 25px; margin-top: 35px; }
+
+@media (max-width: 600px) {
+  header h1 { font-size: 27px; }
+  nav a { font-size: 13px; margin: 5px; }
+  .content { padding: 16px; }
+  table { font-size: 13px; }
+}
+------MultipartBoundary--agWj15RBaxsP1pXsT88o94EQFmNSvc26op6zrE4akY------
